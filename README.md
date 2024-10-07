@@ -17,7 +17,6 @@
   <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Leo-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Leo-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="right" alt="Leo-pic" height="140" style="border-radius: 155.5px;;" src="https://ecda30b5-e9fe-4bf6-95b0-84d909a8428d.id.repl.co/logo%20GTDev.jpg">
   
 </div>
 
