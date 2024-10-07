@@ -1,7 +1,7 @@
 - 👋 Hi I'm Leonardo. 
 - 📚 Study to be an AI Engineer
 - 🏬 I live in Brasília, Brazil.
-- 📲 Contact me : leonardo.alcantara@gmail.com
+- 📲 Contact me : leo.alca.salvador@gmail.com
 
 <div align="center">
   <a href="https://github.com/leolsalvador">
