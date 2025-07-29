@@ -9,11 +9,11 @@
 
 ### � **About Me**
 ```yaml
-name: Leonardo Salvador
-location: Brasília, Brazil 🇧🇷
-current_focus: AI Engineering & Machine Learning
-interests: [AI, Web Development, Data Science, Innovation]
-fun_fact: "Turning coffee into code since 2020 ☕"
+Name: Leonardo Salvador
+Location: Brasília, Brazil 🇧🇷
+Current Focus: AI Engineering & Machine Learning
+Interests: [AI, Web Development, Data Science, Innovation]
+Fun Fact: "Turning coffee into code since 2020 ☕"
 ```
 
 </div>
@@ -44,7 +44,7 @@ fun_fact: "Turning coffee into code since 2020 ☕"
 ### 🗄️ **Databases & Cloud**
 <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+<img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 
 </div>
