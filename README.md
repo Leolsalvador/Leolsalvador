@@ -24,10 +24,7 @@ fun_fact: "Turning coffee into code since 2020 ☕"
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolsalvador&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=leolsalvador&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-## 🛠️ **Tech Stack & Tools**
+### 🛠️ **Tech Stack & Tools**
 
 <div align="center">
 
@@ -52,53 +49,12 @@ fun_fact: "Turning coffee into code since 2020 ☕"
 
 </div>
 
-## 🎯 **Current Focus**
-```python
-class Leonardo:
-    def __init__(self):
-        self.name = "Leonardo Salvador"
-        self.role = "AI Engineer Student"
-        self.location = "Brasília, Brazil"
-        self.languages = ["Python", "JavaScript", "C#"]
-        self.current_focus = ["Machine Learning", "Deep Learning", "Web Development"]
-        self.goals_2025 = [
-            "Master AI/ML algorithms",
-            "Build innovative AI applications",
-            "Contribute to open source projects",
-            "Complete AI Engineering certification"
-        ]
-    
-    def say_hi(self):
-        return "Thanks for visiting my profile! Let's build the future together 🚀"
-
-me = Leonardo()
-print(me.say_hi())
-```
-
-## 📈 **GitHub Activity Graph**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leolsalvador&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
-</div>
-
 ## 🏆 **Achievements & Stats**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=leolsalvador&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
-## 🌟 **Featured Projects**
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leolsalvador&repo=ai-project&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/leolsalvador/ai-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leolsalvador&repo=web-app&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/leolsalvador/web-app)
-
-</div>
-
 ---
-
-## 🎵 **Currently Listening To**
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=leolsalvador&width=400&count=1" alt="Spotify recently played" />
-</div>
 
 ## 📫 **Let's Connect!**
 <div align="center">
